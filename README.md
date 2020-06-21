@@ -11,4 +11,4 @@ Source code must be delivered to client
 
 Maintenance and new features to be handled by client’s nephew.
 
-https://github.com/jia-von/HelloWorldHelloUserHelloEverybody.git
+https://trello.com/b/Y4npRdXl/c-introduction-hello-world-hello-user-hello-everybody
